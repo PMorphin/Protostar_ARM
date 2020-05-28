@@ -61,3 +61,6 @@ If you don't have a RaspberryPi, you can emulate it using [QEMU](https://www.qem
 [ARM Explotation for IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)  
 [Shellcode on ARM Architecture](http://shell-storm.org/blog/Shellcode-On-ARM-Architecture/)  
 [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+
+
+[Defensive Coding Guide - RedHat](http://redhat-crypto.gitlab.io/defensive-coding-guide/#_programming_languages)
